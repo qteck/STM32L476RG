@@ -25,9 +25,8 @@ This repository contains firmware for the STM32L476RG microcontroller used in pr
 | 17         | CN10         | TIM4_CH1         | PB6            | Beta_RX_D - Frequency recognition                           |
 
 ### Pinout View
-| ![image](https://github.com/user-attachments/assets/1c1130f0-9b8a-485c-891b-5792db5c79c6) |
+| ![image](https://github.com/user-attachments/assets/78737947-a364-4d14-b793-77794824b3e1) |
 |-|
-
 
 ## UART4/UART5: Speed Conversion
 ### Speed Specifications
