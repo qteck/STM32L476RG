@@ -1,6 +1,6 @@
 # STM32L476RG
 
-This repository contains firmware for the STM32L476RG microcontroller used in project E676-002 Rev. B (an automated testing tool). The firmware implements the following functionality:
+This repository contains firmware for the STM32L476RG microcontroller used in project E***-*** Rev. B (an automated testing tool). The firmware implements the following functionality:
 
 - **UART4/UART5**: Speed Conversion
 - **TIM15**: Pulse Width Modulation of a Square Wave
