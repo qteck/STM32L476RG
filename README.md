@@ -181,11 +181,6 @@ The bias voltage should be set to avoid amplifying the offset voltage. The offse
 	- Amplitude: 300mV
 
 ### Results
-| ![OPAMP2 Output](https://github.com/user-attachments/assets/44c8b0e4-b6d1-46e7-87c1-0dd758194e9e) |
-|-|
-
-*Figure: Input versus output using OPAMP2 showimg clipped peaks and excessive gain*
-
 **Amplitude**
 
 The amplitude is effectively clipped at both the top and bottom peaks if the offset is correctly subtracted. This efficiently converts the sinusoidal wave into a square wave which is sufficient for frequency detection through further processing.
